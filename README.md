@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello fellow adventurer 👋
+
+# 🌱 I’m currently learning ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+![Deés' GitHub stats](https://github-readme-stats.vercel.app/api?username=serphos&show_icons=true&theme=midnight-purple)
 
 <!--
 **Serphos/Serphos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
