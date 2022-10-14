@@ -1,8 +1,8 @@
 ### Hello fellow adventurer 👋
 
 # 🌱 I’m currently learning ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
+# 💻 1st year of Computer Science school.
+# 🗿 Technically and psychologically a noob in programming.
 
 ![Deés' GitHub stats](https://github-readme-stats.vercel.app/api?username=serphos&show_icons=true&theme=midnight-purple)
 
