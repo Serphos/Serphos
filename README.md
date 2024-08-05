@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **szabolcsdees@icloud.com**
+- 📫 How to reach me **shopl1ftxr@icloud.com**
 
 <p>I code as a hobby, my main field is Network Engineering.</p>
 
