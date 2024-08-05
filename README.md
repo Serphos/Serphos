@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shop</h1>
-<h3 align="center">A passionate programmer from Hungary</h3>
+<h3 align="center">A passionate programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shopl1ftxr&label=Profile%20views&color=0e75b6&style=flat" alt="shopl1ftxr" /> </p>
 
